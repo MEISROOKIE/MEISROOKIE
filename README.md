@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MEISROOKIE
-- 👀 I’m interested in C# for my work
-- 🌱 I’m currently learning c# and wpf 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 👀 I’m interested in C# and C++ for my work
+- 🌱Work as Semiconductor 
+  
 
 <!---
 MEISROOKIE/MEISROOKIE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
