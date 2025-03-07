@@ -1,3 +1,4 @@
-
-wwwww
-}，等待<{m_ModuleName}>下所有子模块运行完成，耗时[{stopwatch.ElapsedMilliseconds}]ms，..");
+touch notes.md
+echo "# 项目笔记" >> notes.md
+git add notes.md
+git commit -m "添加笔记文件"
